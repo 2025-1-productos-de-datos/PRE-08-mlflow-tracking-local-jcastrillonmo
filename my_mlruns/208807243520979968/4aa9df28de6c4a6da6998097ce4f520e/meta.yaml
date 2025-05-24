@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Usuario\Documents\Maestria Nacional\2.Semestre\1.Productos_Datos\Repositorio\PRE-08-mlflow-tracking-local-jcastrillonmo\my_mlruns/208807243520979968/4aa9df28de6c4a6da6998097ce4f520e/artifacts
+end_time: 1748103594943
+entry_point_name: ''
+experiment_id: '208807243520979968'
+lifecycle_stage: active
+run_id: 4aa9df28de6c4a6da6998097ce4f520e
+run_name: elasticnet_ad48ec5a
+run_uuid: 4aa9df28de6c4a6da6998097ce4f520e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748103594924
+status: 3
+tags: []
+user_id: Usuario

@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\Usuario\Documents\Maestria Nacional\2.Semestre\1.Productos_Datos\Repositorio\PRE-08-mlflow-tracking-local-jcastrillonmo\my_mlruns/208807243520979968
+creation_time: 1748100534920
+experiment_id: '208807243520979968'
+last_update_time: 1748100534920
+lifecycle_stage: active
+name: wine_quality_experiment
